@@ -1,6 +1,6 @@
-# Showdown editor using Angular 4 [![Build Status](https://travis-ci.org/aaradhanas/showdown-editor.svg?branch=master)](https://travis-ci.org/aaradhanas/showdown-editor) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/aaradhanas/angular/blob/master/LICENSE) [![codecov](https://codecov.io/gh/aaradhanas/showdown-editor/branch/master/graph/badge.svg)](https://codecov.io/gh/aaradhanas/showdown-editor)
+# Showdown editor using Angular 4 [![Build Status](https://travis-ci.org/aaradhanas/showdown-editor.svg?branch=master)](https://travis-ci.org/aaradhanas/showdown-editor) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/aaradhanas/showdown-editor/blob/master/LICENSE) [![codecov](https://codecov.io/gh/aaradhanas/showdown-editor/branch/master/graph/badge.svg)](https://codecov.io/gh/aaradhanas/showdown-editor) [![HitCount](http://hits.dwyl.io/aaradhanas/showdown-editor.svg)](http://hits.dwyl.io/aaradhanas/showdown-editor)
 
-This project is inspired by the works of the developers of Showdown editor. The [existing showdown editor](http://demo.showdownjs.com/) has been developed using AngularJS (Version 1 of Angular). The editor has been rewritten in Angular 4 in a simpler and easier way.
+This project is inspired by the works of the developers of Showdown editor. The [existing showdown editor](http://demo.showdownjs.com/) has been developed using AngularJS (Version 1 of Angular). The editor has been rewritten in Angular 4 in a simpler and easier way. You can access the revamped showdown editor [here](https://aaradhanas.github.io/showdown-editor/).
 
 # Angular 4 components
 
@@ -70,4 +70,4 @@ Codecov will search for the coverage folder and upload the report to your repo i
 
 # License
 
-- [MIT license](https://github.com/aaradhanas/angular/blob/master/LICENSE)
+- [MIT license](https://github.com/aaradhanas/showdown-editor/blob/master/LICENSE)
